@@ -1,7 +1,9 @@
 # Aryan Flag
 ### Wind for a Better Tomorrow — Smart Textile Concept
-
+---
 ![Aryan Flag concept](AryanFlag-Concept.png)
+
+---
 
 **Aryan Flag** is a proposed smart-textile concept that explores how the movement of wind and fabric can be converted into usable electrical energy. The project brings together textile engineering, conductive yarns, flexible functional materials, and energy-harvesting electronics.
 
@@ -17,6 +19,10 @@ The broader intention is to develop practical innovations that can be manufactur
 - Make the energy-harvesting elements modular, repairable, and potentially replaceable.
 - Design a manufacturing path compatible with established textile processes wherever possible.
 - Keep the system inclusive and cost-conscious while respecting applicable intellectual-property rights and fair benefit-sharing.
+---
+![Aryan Flag concept](Fig01.jpg)
+
+---
 
 ## 2. Proposed textile architecture
 
@@ -40,6 +46,11 @@ The energy path is:
 Important distinction: a high open-circuit voltage does not automatically mean high usable power. TENG devices can produce high voltage with low current. Evaluation must therefore include voltage, current, power under a defined load, energy per cycle, conversion efficiency, and long-term stability.
 
 The system should not be described as producing a guaranteed amount of electricity until measurements from a reproducible prototype are available.
+---
+
+![Aryan Flag concept](Fig02.jpg)
+
+---
 
 ## 4. Candidate materials for investigation
 
@@ -62,7 +73,11 @@ These are candidate materials, not a final bill of materials. Compatibility, env
 5. **Electrical characterization:** Measure open-circuit voltage, short-circuit current, load curves, power, energy per cycle, and storage performance using documented test conditions.
 6. **Pilot manufacturing:** Assess process repeatability, repairability, cost, quality control, and end-of-life handling.
 7. **Field demonstration:** Test only after electrical and mechanical safety reviews, with suitable protection and monitoring.
+---
 
+![Aryan Flag concept](Fig02.jpg)
+
+---
 ## 6. Potential application areas
 
 - **Flags and outdoor textile structures:** Small-scale demonstration of wind-driven fabric motion.
@@ -91,6 +106,12 @@ A meaningful comparison should state the sample area, wind speed or motion profi
 - Do not connect an unvalidated textile generator directly to mains electricity or critical equipment.
 - Review fire behavior, material shedding, chemical exposure, and disposal/recycling.
 - Avoid performance claims without reproducible measurements and independent review.
+
+---
+
+![Aryan Flag concept](Flags and Canvas.jpg)
+
+---
 
 ## 9. Innovation, access, and public benefit
 
