@@ -75,7 +75,7 @@ These are candidate materials, not a final bill of materials. Compatibility, env
 7. **Field demonstration:** Test only after electrical and mechanical safety reviews, with suitable protection and monitoring.
 ---
 
-![Aryan Flag concept](Fig02.jpg)
+![Aryan Flag concept](Fig03.jpg)
 
 ---
 ## 6. Potential application areas
