@@ -1,7 +1,7 @@
 # Aryan Flag
 ### Wind for a Better Tomorrow — Smart Textile Concept
 
-![Aryan Flag concept](images/AryanFlag-Concept.png)
+![Aryan Flag concept](AryanFlag-Concept.png)
 
 **Aryan Flag** is a proposed smart-textile concept that explores how the movement of wind and fabric can be converted into usable electrical energy. The project brings together textile engineering, conductive yarns, flexible functional materials, and energy-harvesting electronics.
 
