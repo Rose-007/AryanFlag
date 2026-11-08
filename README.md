@@ -109,7 +109,7 @@ A meaningful comparison should state the sample area, wind speed or motion profi
 
 ---
 
-![Aryan Flag concept](Flags and Canvas.jpg)
+![Aryan Flag concept](Flags-Canvas.jpg)
 
 ---
 
